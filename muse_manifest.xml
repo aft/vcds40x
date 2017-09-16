@@ -1,0 +1,39 @@
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="vcds40x.com" resolutions="1x,2x" timestamp="1505568669722">
+  <folder name="css">
+    <file name="site_global.css" crc="3843525660"/>
+    <file name="index.css" crc="184054794" ref="index"/>
+  </folder>
+  <folder name="fonts">
+    <file name="interface-bold.woff" crc="506815331"/>
+    <file name="interface-bold.eot" crc="4247978338"/>
+    <file name="envycoder.woff" crc="3941608128"/>
+    <file name="envy code r.eot" crc="363313813"/>
+    <file name="interface-black.woff" crc="3916706487"/>
+    <file name="interface-black.eot" crc="209797483"/>
+    <file name="interface-regular.woff" crc="4184720155"/>
+    <file name="interface-regular.eot" crc="3866081924"/>
+    <file name="interface-medium.woff" crc="3920472456"/>
+    <file name="interface-medium.eot" crc="377137747"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="17924269" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="144853533" ref="index"/>
+    <file name="jquery.watch.js" crc="4240030481" ref="index"/>
+    <file name="require.js" crc="3861931657" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="u1185-4.png" crc="103960385" ref="index"/>
+    <file name="u1185-4_2x.png" crc="4276853882" ref="index"/>
+    <file name="u1118-4.png" crc="29398521" ref="index"/>
+    <file name="u1118-4_2x.png" crc="531618189" ref="index"/>
+    <file name="u1121-4.png" crc="3799871279" ref="index"/>
+    <file name="u1121-4_2x.png" crc="124647386" ref="index"/>
+    <file name="u1145-4.png" crc="3887941696" ref="index"/>
+    <file name="u1145-4_2x.png" crc="4131048227" ref="index"/>
+    <file name="u1136-4.png" crc="410791068" ref="index"/>
+    <file name="u1136-4_2x.png" crc="389085680" ref="index"/>
+  </folder>
+  <file name="index.html" crc="3916920856" seo="true" mt="1505568618218" redirect="true"/>
+</manifest>
