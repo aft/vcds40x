@@ -1,7 +1,7 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="vcds40x.com" resolutions="1x,2x" timestamp="1505592008574">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="vcds40x.com" resolutions="1x,2x" timestamp="1505592577705">
   <folder name="css">
     <file name="site_global.css" crc="121190726"/>
-    <file name="index.css" crc="3808439001" ref="index"/>
+    <file name="index.css" crc="426484799" ref="index"/>
     <file name="master_a-master.css" crc="366585555" ref="index"/>
   </folder>
   <folder name="fonts">
@@ -36,5 +36,5 @@
     <file name="u1136-4.png" crc="410791068" ref="index"/>
     <file name="u1136-4_2x.png" crc="389085680" ref="index"/>
   </folder>
-  <file name="index.html" crc="4241222695" seo="true" mt="1505591936312" redirect="true"/>
+  <file name="index.html" crc="185294814" seo="true" mt="1505592536293" redirect="true"/>
 </manifest>
