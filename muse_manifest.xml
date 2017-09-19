@@ -1,8 +1,11 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="vcds40x.com" resolutions="1x,2x" timestamp="1505592577705">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="vcds40x.com" resolutions="1x,2x" timestamp="1505816563837">
+  <folder name="assets">
+    <file name="vcds401_fall2017-syllabus.pdf" crc="511327767" seo="true" mt="1505814281000"/>
+  </folder>
   <folder name="css">
-    <file name="site_global.css" crc="121190726"/>
-    <file name="index.css" crc="426484799" ref="index"/>
-    <file name="master_a-master.css" crc="366585555" ref="index"/>
+    <file name="site_global.css" crc="124893246"/>
+    <file name="index.css" crc="4075825091" ref="index"/>
+    <file name="master_a-master.css" crc="4035880476" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="interface-bold.woff" crc="506815331"/>
@@ -15,6 +18,8 @@
     <file name="interface-regular.eot" crc="3866081924"/>
     <file name="interface-medium.woff" crc="3920472456"/>
     <file name="interface-medium.eot" crc="377137747"/>
+    <file name="interface-regularitalic.woff" crc="3927964672"/>
+    <file name="interface-regularitalic.eot" crc="3887147633"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
@@ -31,10 +36,10 @@
     <file name="u1118-4_2x.png" crc="531618189" ref="index"/>
     <file name="u1121-4.png" crc="3799871279" ref="index"/>
     <file name="u1121-4_2x.png" crc="124647386" ref="index"/>
-    <file name="u1145-4.png" crc="3887941696" ref="index"/>
-    <file name="u1145-4_2x.png" crc="4131048227" ref="index"/>
+    <file name="u1145-4.png" crc="279858425" ref="index"/>
+    <file name="u1145-4_2x.png" crc="525631928" ref="index"/>
     <file name="u1136-4.png" crc="410791068" ref="index"/>
     <file name="u1136-4_2x.png" crc="389085680" ref="index"/>
   </folder>
-  <file name="index.html" crc="185294814" seo="true" mt="1505592536293" redirect="true"/>
+  <file name="index.html" crc="3876020683" seo="true" mt="1505816542882" redirect="true"/>
 </manifest>
