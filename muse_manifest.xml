@@ -1,11 +1,11 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="vcds40x.com" resolutions="1x,2x" timestamp="1505816563837">
+<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="vcds40x.com" resolutions="1x,2x" timestamp="1507144479940">
   <folder name="assets">
     <file name="vcds401_fall2017-syllabus.pdf" crc="511327767" seo="true" mt="1505814281000"/>
   </folder>
   <folder name="css">
     <file name="site_global.css" crc="124893246"/>
-    <file name="index.css" crc="4075825091" ref="index"/>
-    <file name="master_a-master.css" crc="4035880476" ref="index"/>
+    <file name="index.css" crc="204500908" ref="index"/>
+    <file name="master_a-master.css" crc="3933742282" ref="index"/>
   </folder>
   <folder name="fonts">
     <file name="interface-bold.woff" crc="506815331"/>
@@ -41,5 +41,5 @@
     <file name="u1136-4.png" crc="410791068" ref="index"/>
     <file name="u1136-4_2x.png" crc="389085680" ref="index"/>
   </folder>
-  <file name="index.html" crc="3876020683" seo="true" mt="1505816542882" redirect="true"/>
+  <file name="index.html" crc="4015928430" seo="true" mt="1507144396408" redirect="true"/>
 </manifest>
