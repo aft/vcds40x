@@ -1,45 +1,45 @@
-<manifest alg="2" build="2017.1.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="vcds40x.com" resolutions="1x,2x" timestamp="1507144980278">
-  <folder name="assets">
-    <file name="vcds401_fall2017-syllabus.pdf" crc="511327767" seo="true" mt="1505814281000"/>
-  </folder>
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="vcds40x.com" resolutions="1x,2x" timestamp="1514194617467">
   <folder name="css">
     <file name="site_global.css" crc="121190726"/>
-    <file name="index.css" crc="3797503193" ref="index"/>
-    <file name="master_a-master.css" crc="3933742282" ref="index"/>
+    <file name="master_a-master.css" crc="111897883" ref="index"/>
+    <file name="index.css" crc="3984762114" ref="index"/>
   </folder>
   <folder name="fonts">
-    <file name="interface-bold.woff" crc="506815331"/>
-    <file name="interface-bold.eot" crc="4247978338"/>
-    <file name="envycoder.woff" crc="3941608128"/>
-    <file name="envy code r.eot" crc="363313813"/>
-    <file name="interface-black.woff" crc="3916706487"/>
-    <file name="interface-black.eot" crc="209797483"/>
-    <file name="interface-regular.woff" crc="4184720155"/>
-    <file name="interface-regular.eot" crc="3866081924"/>
-    <file name="interface-medium.woff" crc="3920472456"/>
-    <file name="interface-medium.eot" crc="377137747"/>
     <file name="interface-regularitalic.woff" crc="3927964672"/>
     <file name="interface-regularitalic.eot" crc="3887147633"/>
+    <file name="interface-medium.woff" crc="3920472456"/>
+    <file name="interface-medium.eot" crc="377137747"/>
+    <file name="interface-regular.woff" crc="4184720155"/>
+    <file name="interface-regular.eot" crc="3866081924"/>
+    <file name="interface-bold.woff" crc="506815331"/>
+    <file name="interface-bold.eot" crc="4247978338"/>
+    <file name="interface-black.woff" crc="3916706487"/>
+    <file name="interface-black.eot" crc="209797483"/>
+    <file name="envycoder.woff" crc="3941608128"/>
+    <file name="envy code r.eot" crc="363313813"/>
+  </folder>
+  <folder name="assets">
+    <file name="vcds401_fall2017-syllabus.pdf" crc="511327767" seo="true" mt="1507142474000"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="17924269" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
     <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="144853533" ref="index"/>
-    <file name="jquery.watch.js" crc="4240030481" ref="index"/>
-    <file name="require.js" crc="3861931657" ref="index"/>
+    <file name="museconfig.js" crc="380897831" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
   </folder>
   <folder name="images">
-    <file name="u1185-4.png" crc="103960385" ref="index"/>
-    <file name="u1185-4_2x.png" crc="4276853882" ref="index"/>
-    <file name="u1118-4.png" crc="29398521" ref="index"/>
-    <file name="u1118-4_2x.png" crc="531618189" ref="index"/>
-    <file name="u1121-4.png" crc="3799871279" ref="index"/>
-    <file name="u1121-4_2x.png" crc="124647386" ref="index"/>
-    <file name="u1145-4.png" crc="279858425" ref="index"/>
-    <file name="u1145-4_2x.png" crc="525631928" ref="index"/>
-    <file name="u1136-4.png" crc="410791068" ref="index"/>
-    <file name="u1136-4_2x.png" crc="389085680" ref="index"/>
+    <file name="u1185-4.png" crc="332334005" ref="index"/>
+    <file name="u1185-4_2x.png" crc="33897024" ref="index"/>
+    <file name="u1118-4.png" crc="4089864047" ref="index"/>
+    <file name="u1118-4_2x.png" crc="125708075" ref="index"/>
+    <file name="u1121-4.png" crc="4054004530" ref="index"/>
+    <file name="u1121-4_2x.png" crc="4243608729" ref="index"/>
+    <file name="u1136-4.png" crc="3816193924" ref="index"/>
+    <file name="u1136-4_2x.png" crc="517798073" ref="index"/>
+    <file name="u1145-4.png" crc="4171745664" ref="index"/>
+    <file name="u1145-4_2x.png" crc="3942293093" ref="index"/>
   </folder>
-  <file name="index.html" crc="151246811" seo="true" mt="1507144881663" redirect="true"/>
+  <file name="index.html" crc="326141790" seo="true" mt="1514194592018" redirect="true"/>
 </manifest>
